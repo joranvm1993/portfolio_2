@@ -1,11 +1,12 @@
 # Bienvenidos a Portfolio v 2 🚀
-Una nueva plantilla para que la utilicen para darse a conocer a nivel profesional, y porque no, para que practiquen y aprendan cada vez más!
+En el encontraras mi informacuion personal, contacto, servicios y estudios realizados
 
-## Sientanse en la capacidad de 🛠️⚙️:
-* Editarla con su información
-* Personalizarla con sus imágenes y colores
-* Darle vida en general!
+## Diseñado y desarrollado por Andres Vasquez 🛠️⚙️:
+* En el se utilizo librerias de bootstrap
+* Iconos de la libreria icofont
+* Imagenes propias 
+* Como medio academico se utilizo htpps://www.w3school.com.es
 
-## Recurso gratuito
+## Muchas gracias.
 ---
-⌨️ con ❤️ por [JDR](https://github.com/jdreina7) :facepunch:😊
+⌨️ Joranvm1993
